@@ -1,0 +1,35 @@
+<profile version="1.0">
+  <option name="myName" value="Normal saved profile" />
+  <inspection_tool class="AnonymousFunctionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="CommaExpressionJS" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CssMissingComma" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CssMissingSemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="CyclomaticComplexityJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="m_limit" value="10" />
+  </inspection_tool>
+  <inspection_tool class="HtmlMissingClosingTag" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSCheckFunctionSignatures" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="myCheckGuessedTypes" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="myMakeSingleVarStatement" value="true" />
+  </inspection_tool>
+  <inspection_tool class="JSLastCommaInObjectLiteral" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSReferencingMutableVariableFromClosure" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedFunction" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="MismatchedClassNameInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="NestingDepthJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="m_limit" value="5" />
+  </inspection_tool>
+  <inspection_tool class="StatementsPerFunctionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="m_limit" value="30" />
+  </inspection_tool>
+  <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="m_ignoreCatchBlocksWithComments" value="false" />
+  </inspection_tool>
+</profile>

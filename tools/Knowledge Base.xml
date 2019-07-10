@@ -1,0 +1,16 @@
+<toolSet name="Knowledge Base">
+  <tool name="MXP_App_DataServer" description="Runs built DataServer instance" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\Knowledgebase\trunk\middleware\bin\MXP_App_DataServer.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/Knowledgebase/trunk/middleware/bin" />
+    </exec>
+  </tool>
+  <tool name="Build Test Blue Theme" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\Knowledgebase\trunk\build\BUILD_KB_TEST_BLUE_THEME.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/Knowledgebase/trunk/build" />
+    </exec>
+  </tool>
+</toolSet>
