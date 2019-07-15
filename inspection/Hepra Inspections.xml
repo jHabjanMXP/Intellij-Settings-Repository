@@ -304,8 +304,8 @@
   <inspection_tool class="JSJQueryEfficiency" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="JSJoinVariableDeclarationAndAssignment" enabled="true" level="INFORMATION" enabled_by_default="true">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="JSJoinVariableDeclarationAndAssignment" enabled="false" level="INFORMATION" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="JSLastCommaInArrayLiteral" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
