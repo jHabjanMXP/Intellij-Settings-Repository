@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Global" />
-    <option name="defaultScopeName" value="Global" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Global" />
+    <option name="customScope" value="Websource" />
+    <option name="defaultScopeName" value="Websource" />
+    <option name="SEARCH_SCOPE" value="Websource" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
