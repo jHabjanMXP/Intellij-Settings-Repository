@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Architect" />
-    <option name="defaultScopeName" value="Architect" />
-    <option name="SEARCH_SCOPE" value="Architect" />
+    <option name="customScope" value="Controllers" />
+    <option name="defaultScopeName" value="Controllers" />
+    <option name="SEARCH_SCOPE" value="Controllers" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
