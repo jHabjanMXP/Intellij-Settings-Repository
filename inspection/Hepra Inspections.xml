@@ -467,7 +467,7 @@
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="MismatchedClassNameInspection" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
