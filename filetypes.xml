@@ -5,6 +5,7 @@
       <mapping ext="iss" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping pattern="ProgramCategories" type="SQL" />
+      <mapping pattern="_ImageTest_Insert" type="SQL" />
       <mapping pattern="ProgramPageCategories_Get" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
