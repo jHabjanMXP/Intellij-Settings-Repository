@@ -6,8 +6,8 @@
   <inspection_tool class="Annotator" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="AnonymousFunctionJS" enabled="true" level="WEAK WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="AnonymousFunctionJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
@@ -39,8 +39,8 @@
   <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="ChainedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="ChainedFunctionCallJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="CommaExpressionJS" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
@@ -66,8 +66,8 @@
   <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="ContinueOrBreakFromFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
@@ -204,8 +204,8 @@
   <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="GjsLint" enabled="false" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="false" />
@@ -442,8 +442,8 @@
   <inspection_tool class="JSXNamespaceValidation" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="Jscs" enabled="true" level="ERROR" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="Jscs" enabled="false" level="ERROR" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="KarmaConfigFile" enabled="true" level="WARNING" enabled_by_default="true">
@@ -484,8 +484,8 @@
   <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="NestedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="NestedFunctionCallJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true">
@@ -591,8 +591,8 @@
   <inspection_tool class="SillyAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="StandardJS" enabled="true" level="ERROR" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="StandardJS" enabled="false" level="ERROR" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WEAK WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true">
