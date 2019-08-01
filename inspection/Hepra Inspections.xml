@@ -207,8 +207,8 @@
   <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="GjsLint" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="GjsLint" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="HtmlMissingClosingTag" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true">
@@ -295,8 +295,8 @@
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="true" level="INFORMATION" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="JSHint" enabled="false" level="ERROR" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
@@ -313,8 +313,8 @@
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="JSLint" enabled="false" level="ERROR" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="JSMethodCanBeStatic" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
