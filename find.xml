@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ViewControllers" />
-    <option name="defaultScopeName" value="ViewControllers" />
+    <option name="customScope" value="Websource" />
+    <option name="defaultScopeName" value="Websource" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="ViewControllers" />
+    <option name="SEARCH_SCOPE" value="Websource" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
