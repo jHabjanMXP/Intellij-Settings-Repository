@@ -1,0 +1,9 @@
+<toolSet name="TravelExpenses">
+  <tool name="Build Test Blue Theme" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\travelExpanses\branches\ext700\build\BUILD_TE_TEST_MXP.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/travelExpanses/branches/ext700/build" />
+    </exec>
+  </tool>
+</toolSet>
