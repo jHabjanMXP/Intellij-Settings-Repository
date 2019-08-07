@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="C:/SVN/travelExpanses/branches/ext700/build" />
     </exec>
   </tool>
+  <tool name="MXP_App_DataServer" description="Runs built DataServer instance" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\travelExpanses\branches\ext700\bin\MXP_App_DataServer.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/travelExpanses/branches/ext700/bin" />
+    </exec>
+  </tool>
 </toolSet>
