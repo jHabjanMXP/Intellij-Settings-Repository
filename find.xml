@@ -12,7 +12,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>curren</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
