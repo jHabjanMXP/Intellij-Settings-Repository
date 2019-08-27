@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="WebstormEditing" />
-    <option name="defaultScopeName" value="WebstormEditing" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="WebstormEditing" />
+    <option name="customScope" value="Websource" />
+    <option name="defaultScopeName" value="Websource" />
+    <option name="SEARCH_SCOPE" value="Websource" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
