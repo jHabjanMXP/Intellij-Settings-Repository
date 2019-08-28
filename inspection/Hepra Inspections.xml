@@ -275,7 +275,7 @@
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true">
+    <scope name="Architect" level="WEAK WARNING" enabled="false">
       <option name="myMakeSingleVarStatement" value="true" />
     </scope>
     <option name="myMakeSingleVarStatement" value="true" />
