@@ -1,20 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Websource" />
-    <option name="defaultScopeName" value="Websource" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Websource" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="WebstormEditing" />
+    <option name="defaultScopeName" value="WebstormEditing" />
+    <option name="SEARCH_SCOPE" value="WebstormEditing" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>curren</mask>
+    <mask>*.css</mask>
     <mask>*.js</mask>
   </component>
 </application>

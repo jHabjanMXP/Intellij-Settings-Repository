@@ -274,8 +274,8 @@
   <inspection_tool class="JSConstructorReturnsPrimitive" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <scope name="Architect" level="WEAK WARNING" enabled="true">
+  <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Architect" level="WEAK WARNING" enabled="false">
       <option name="myMakeSingleVarStatement" value="true" />
     </scope>
     <option name="myMakeSingleVarStatement" value="true" />
@@ -651,8 +651,10 @@
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true">
       <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+      <option name="m_ignoreAnnotatedVariables" value="false" />
     </scope>
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+    <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
   <inspection_tool class="UnnecessaryReturnJS" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
