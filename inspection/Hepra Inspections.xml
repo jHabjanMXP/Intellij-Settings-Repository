@@ -78,6 +78,9 @@
   <inspection_tool class="ContinueStatementWithLabelJS" enabled="false" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
+  <inspection_tool class="CssBrowserCompatibilityForProperties" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="WebstormEditing" level="WEAK WARNING" enabled="true" />
+  </inspection_tool>
   <inspection_tool class="CssMissingComma" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="CyclomaticComplexityJS" enabled="false" level="WEAK WARNING" enabled_by_default="false">
@@ -313,7 +316,7 @@
   <inspection_tool class="JSLastCommaInObjectLiteral" enabled="true" level="ERROR" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
-  <inspection_tool class="JSLint" enabled="false" level="ERROR" enabled_by_default="false">
+  <inspection_tool class="JSLint" enabled="false" level="ERROR" enabled_by_default="true">
     <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="JSMethodCanBeStatic" enabled="true" level="WARNING" enabled_by_default="true">
