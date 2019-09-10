@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="customScope" value="Websource" />
+    <option name="defaultScopeName" value="Websource" />
+    <option name="SEARCH_SCOPE" value="Websource" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>curren</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.js</mask>
   </component>
 </application>
