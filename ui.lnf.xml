@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>
