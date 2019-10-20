@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="C:/SVN/Elearning/trunk/middleware/bin" />
     </exec>
   </tool>
+  <tool name="DB_Alter_Generate" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\Elearning\trunk\_Files\DB\join_scripts.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/Elearning/trunk/_Files/DB" />
+    </exec>
+  </tool>
 </toolSet>
