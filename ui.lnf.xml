@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="23" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
