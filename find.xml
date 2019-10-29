@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="WebstormEditing" />
-    <option name="defaultScopeName" value="WebstormEditing" />
+    <option name="customScope" value="Directory '...\trunk\websource\app\controller'" />
+    <option name="defaultScopeName" value="Directory '...\trunk\websource\app\controller'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="WebstormEditing" />
+    <option name="SEARCH_SCOPE" value="Directory '...\trunk\websource\app\controller'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
