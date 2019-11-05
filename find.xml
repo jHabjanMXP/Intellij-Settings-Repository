@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Extjs" />
-    <option name="defaultScopeName" value="Extjs" />
+    <option name="customScope" value="WebstormEditing" />
+    <option name="defaultScopeName" value="WebstormEditing" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Extjs" />
+    <option name="SEARCH_SCOPE" value="WebstormEditing" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
