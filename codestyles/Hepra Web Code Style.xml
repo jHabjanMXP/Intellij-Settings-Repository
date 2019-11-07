@@ -1,4 +1,16 @@
 <code_scheme name="Hepra Web Code Style" version="173">
+  <DB2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </HSQLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
@@ -7,9 +19,45 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="2" />
   </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
+    <option name="QUERY_EL_COMMA" value="1" />
+    <option name="SUBQUERY_CONTENT" value="3" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_OPENING" value="4" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="1" />
+    <option name="SET_EL_LINE" value="101" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+    <option name="ORDER_EL_WRAP" value="1" />
+    <option name="ORDER_ALIGN_ASC_DESC" value="true" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </OracleCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </SybaseCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
