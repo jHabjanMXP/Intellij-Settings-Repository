@@ -3,6 +3,7 @@
     <option name="customScope" value="Controllers" />
     <option name="defaultScopeName" value="Controllers" />
     <option name="SEARCH_SCOPE" value="Controllers" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>curren</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.js</mask>
   </component>
 </application>
