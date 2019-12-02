@@ -20,4 +20,11 @@
       <option name="WORKING_DIRECTORY" value="C:/SVN/Elearning/trunk/_Files/DB" />
     </exec>
   </tool>
+  <tool name="Docker Build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\SVN\Elearning\trunk\build.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/SVN/Elearning/trunk" />
+    </exec>
+  </tool>
 </toolSet>
