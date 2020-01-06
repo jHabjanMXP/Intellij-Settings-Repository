@@ -515,7 +515,7 @@
     <scope name="Architect" level="WEAK WARNING" enabled="true" />
   </inspection_tool>
   <inspection_tool class="NestedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="false">
-    <scope name="Architect" level="WEAK WARNING" enabled="true" />
+    <scope name="Architect" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="NestedFunctionCallJS" enabled="false" level="WARNING" enabled_by_default="false">
     <scope name="Architect" level="WEAK WARNING" enabled="false" />
