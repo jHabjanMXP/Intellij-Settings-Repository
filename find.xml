@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Global" />
-    <option name="defaultScopeName" value="Global" />
-    <option name="SEARCH_SCOPE" value="Global" />
+    <option name="customScope" value="WebstormEditing" />
+    <option name="defaultScopeName" value="WebstormEditing" />
+    <option name="SEARCH_SCOPE" value="WebstormEditing" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
