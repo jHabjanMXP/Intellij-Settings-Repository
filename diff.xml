@@ -48,6 +48,7 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
     </option>
