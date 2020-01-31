@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Hepra Inspections" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
