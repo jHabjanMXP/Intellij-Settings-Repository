@@ -1,8 +1,13 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_SCALE" value="1.25" />
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="100" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="100" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Hepra Inspections" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
