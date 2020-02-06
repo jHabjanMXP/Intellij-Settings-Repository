@@ -14,5 +14,6 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
