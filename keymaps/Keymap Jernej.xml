@@ -38,6 +38,9 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f4" />
   </action>
+  <action id="RenameAttributeAction">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -45,6 +48,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameTagAction">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Run" />
