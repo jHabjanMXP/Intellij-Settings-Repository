@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Client MXPoS" />
     <option name="defaultScopeName" value="Client MXPoS" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Client MXPoS" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
