@@ -3,6 +3,7 @@
     <option name="customScope" value="Client MXPoS" />
     <option name="defaultScopeName" value="Client MXPoS" />
     <option name="SEARCH_SCOPE" value="Client MXPoS" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -13,7 +14,7 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
