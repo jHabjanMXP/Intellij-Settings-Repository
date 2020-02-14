@@ -1,4 +1,5 @@
 <code_scheme name="Hepra Web Code Style" version="173">
+  <option name="RIGHT_MARGIN" value="140" />
   <DB2CodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
   </DB2CodeStyleSettings>
