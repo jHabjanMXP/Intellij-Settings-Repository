@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Client MXPoS" />
     <option name="defaultScopeName" value="Client MXPoS" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Client MXPoS" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
