@@ -1,7 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Client" />
-    <option name="defaultScopeName" value="Client" />
-    <option name="SEARCH_SCOPE" value="Client" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>curren</mask>
+    <mask>*.css</mask>
+    <mask>*.sql</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*.ts</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
