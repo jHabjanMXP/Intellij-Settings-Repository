@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/html2canvas" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

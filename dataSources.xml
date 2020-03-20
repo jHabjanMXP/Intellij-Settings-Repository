@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Microsoft SQL Server - MxPOS_nova@MXPDE" uuid="eca1eaf9-f9fe-4c85-9280-66f5df52c11f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://MXPDE\AIDA;database=MxPOS_nova</jdbc-url>
+    </data-source>
+  </component>
+</application>

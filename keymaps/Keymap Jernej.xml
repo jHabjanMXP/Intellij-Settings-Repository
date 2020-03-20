@@ -1,0 +1,66 @@
+<keymap version="1" name="Keymap Jernej" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ChooseRunConfiguration" />
+  <action id="Console.Jdbc.Execute.2">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.RenameTab">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.ExecuteRoutine">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Debugger.EditTypeSource" />
+  <action id="EditFavorites">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="EditSource" />
+  <action id="EditSourceInNewWindow" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f4" />
+  </action>
+  <action id="RenameAttributeAction">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameTagAction">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Run" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Terminal.RenameSession">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.JumpToTypeSource" />
+</keymap>
