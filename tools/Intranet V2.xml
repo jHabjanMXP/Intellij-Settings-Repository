@@ -1,9 +1,0 @@
-<toolSet name="Intranet V2">
-  <tool name="Build Test Blue Theme" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\SVN\Intranet\buildV2\BUILD_INTRA_V2_TEST_BLUE_THEME.bat" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/SVN/Intranet/buildV2" />
-    </exec>
-  </tool>
-</toolSet>
